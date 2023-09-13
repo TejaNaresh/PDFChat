@@ -1,4 +1,4 @@
-! pip list | grep Flask
+
 ! pip install Flask
 
 from flask import Flask, render_template, request, jsonify, redirect
