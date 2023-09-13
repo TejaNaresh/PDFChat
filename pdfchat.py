@@ -1,3 +1,4 @@
+! pip install pinecone-client langchain
 import os
 import pinecone
 from langchain.llms import Replicate
