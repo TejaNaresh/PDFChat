@@ -5,3 +5,4 @@ pydantic==1.10.9
 pypdf
 sentence-transformers
 gunicorn
+Python -r requirements.txt
